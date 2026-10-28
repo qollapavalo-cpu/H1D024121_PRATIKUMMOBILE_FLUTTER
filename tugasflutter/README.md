@@ -1,17 +1,9 @@
-# tugasflutter
+# Pertemuan 2_Hello World[cite: 1]
 
-A new Flutter project.
+- **Nama** : Muhammad Zacky Makarim[cite: 1]
+- **NIM** : H1D024121[cite: 1]
+- **Shift KRS** : I[cite: 1]
+- **Shift Baru** : G[cite: 1]
 
-## Getting Started
-
-This project is a starting point for a Flutter application.
-
-A few resources to get you started if this is your first Flutter project:
-
-- [Learn Flutter](https://docs.flutter.dev/get-started/learn-flutter)
-- [Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Flutter learning resources](https://docs.flutter.dev/reference/learning-resources)
-
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+## Deskripsi Tugas[cite: 1]
+<img src="tugasflutter/SS/WhatsApp Image 2026-10-28 at 23.53.25.jpeg" alt="Mobile App" width="300">
